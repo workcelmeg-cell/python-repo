@@ -5,6 +5,7 @@ import sys
 # -----------------------------
 # 1. Global Config & Constants
 # -----------------------------
+#hi guys
 NERGUI_KOSHIG = 20  # CELL_SIZE (koshig = cell/square)
 NERGUI_URD = 30     # GRID_WIDTH (urd = width)
 NERGUI_URGUN = 20   # GRID_HEIGHT (urgun = height)
